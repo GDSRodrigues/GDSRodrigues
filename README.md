@@ -37,7 +37,7 @@ Tenho 18 anos e sou apaixonado por tecnologia. Atualmente, sou Assistente de Sup
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/gabriel-rodrigues-65ba522aa/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-rodrigues-65ba522aa/)
 
 ---
 
