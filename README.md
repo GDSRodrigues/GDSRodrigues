@@ -7,7 +7,7 @@ Tenho 18 anos e sou apaixonado por tecnologia. Atualmente, sou Assistente de Sup
 
 ## Habilidades Técnicas
 
-### Linguagens e Ferramentas
+### Linguagens e Ferramentas 1.0 - 5.0 ⭐
 
 [![HTML5](https://img.shields.io/badge/HTML5-4.5%20⭐-555555?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)](https://www.linkedin.com/in/gabriel-rodrigues-65ba522aa/)
 [![CSS](https://img.shields.io/badge/CSS-3.9%20⭐-555555?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)](https://www.linkedin.com/in/gabriel-rodrigues-65ba522aa/)
