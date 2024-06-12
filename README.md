@@ -19,7 +19,6 @@ Tenho 18 anos e sou apaixonado por tecnologia. Atualmente, sou Assistente de Sup
 [![C#](https://img.shields.io/badge/C%23-1.5%20⭐-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.linkedin.com/in/gabriel-rodrigues-65ba522aa/)
 
 
-
 ## Habilidades Pessoais
 
 - Trabalho em equipe
