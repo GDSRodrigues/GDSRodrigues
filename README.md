@@ -32,6 +32,7 @@ Tenho 18 anos e sou apaixonado por tecnologia. Atualmente, estou cursando Análi
 ## Experiência
 
 - **Professor de Tecnologia** - DCA | Desenvolvimento a Criança e Adolescente
+- **Assistente de Suporte Técnico** - Solfarma Comércio de Produtos Farmacêuticos S/A
 
 ## Contato
 
