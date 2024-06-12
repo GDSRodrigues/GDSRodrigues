@@ -9,7 +9,7 @@ Tenho 18 anos e sou apaixonado por tecnologia. Atualmente, sou Assistente de Sup
 
 ### Linguagens e Ferramentas
 
-[![HTML5](https://img.shields.io/badge/HTML5-3.4%20⭐-555555?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)](https://www.linkedin.com/in/gabriel-rodrigues-65ba522aa/)
+[![HTML5](https://img.shields.io/badge/HTML5-4.5%20⭐-555555?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)](https://www.linkedin.com/in/gabriel-rodrigues-65ba522aa/)
 [![CSS](https://img.shields.io/badge/CSS-3.9%20⭐-555555?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)](https://www.linkedin.com/in/gabriel-rodrigues-65ba522aa/)
 [![PHP](https://img.shields.io/badge/PHP-3.4%20⭐-555555?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4)](https://www.linkedin.com/in/gabriel-rodrigues-65ba522aa/)
 [![MySQL](https://img.shields.io/badge/MySQL-3.1%20⭐-555555?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)](https://www.linkedin.com/in/gabriel-rodrigues-65ba522aa/)
