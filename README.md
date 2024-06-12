@@ -3,7 +3,7 @@
 👋 Olá! Eu sou Gabriel, um Analista de Suporte Técnico e Professor de Tecnologia.
 
 ## Sobre Mim
-Tenho 18 anos e sou apaixonado por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNOPAR e sou formado como Técnico em Informática pela ETEC Prof. Idio Zucchi. Além disso, sou Professor de Tecnologia no DCA | Desenvolvimento a Criança e Adolescente.
+Tenho 18 anos e sou apaixonado por tecnologia. Atualmente, sou Assistente de Suporte Técnico na Solfarma Comércio de Produtos Farmacêuticos S/A. Além disso, estou cursando Análise e Desenvolvimento de Sistemas na UNOPAR e sou formado como Técnico em Informática pela ETEC Prof. Idio Zucchi. Sou também Professor de Tecnologia no DCA | Desenvolvimento a Criança e Adolescente.
 
 ## Habilidades Técnicas
 
@@ -29,10 +29,10 @@ Tenho 18 anos e sou apaixonado por tecnologia. Atualmente, estou cursando Análi
 - **Análise e Desenvolvimento de Sistemas** - UNOPAR (Cursando)
 - **Técnico em Informática** - ETEC Prof. Idio Zucchi
 
-## Experiência
+## Experiência Profissional
 
-- **Professor de Tecnologia** - DCA | Desenvolvimento a Criança e Adolescente
 - **Assistente de Suporte Técnico** - Solfarma Comércio de Produtos Farmacêuticos S/A
+- **Professor de Tecnologia** - DCA | Desenvolvimento a Criança e Adolescente
 
 ## Contato
 
@@ -41,6 +41,7 @@ Tenho 18 anos e sou apaixonado por tecnologia. Atualmente, estou cursando Análi
 ---
 
 🔭 Sempre em busca de novos desafios e oportunidades de aprendizado na área de tecnologia. Vamos nos conectar e crescer juntos!
+
 
 
 <!--
